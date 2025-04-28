@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer | Data Visualization & Analysis from India</h3>
 
 
-<img align = "right" alt="coding" width="280" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align = "right" alt="coding" width="280" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prisha-2976&label=Profile%20views&color=0e75b6&style=flat" alt="prisha-2976" /> </p>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **prishaverma458@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LFxx8uSHWpMbR3OX8OrOQAQZCtU1E1rr6GQLZP49luo/edit?usp=sharing](https://docs.google.com/document/d/1LFxx8uSHWpMbR3OX8OrOQAQZCtU1E1rr6GQLZP49luo/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1LFxx8uSHWpMbR3OX8OrOQAQZCtU1E1rr6GQLZP49luo/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
