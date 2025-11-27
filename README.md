@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Coffee App UI](https://github.com/prisha-2976/coffee-App-UI.git)
 
-- 🌱 I’m currently learning **Backened,React and DSA**
+- 🌱 I’m currently learning **React-Native, Tailwind CSS and DSA**
 
 - 👯 I’m looking to collaborate on **Frontened, Backened, Data Science and Open Source Project**
 
