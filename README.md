@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prisha-2976&label=Profile%20views&color=0e75b6&style=flat" alt="prisha-2976" /> </p>
 
-- 🔭 I’m currently working on [Loan Management System](https://github.com/prisha-2976/Java_Project.git)
+- 🔭 I’m currently working on [Coffee App UI](https://github.com/prisha-2976/coffee-App-UI.git)
 
 - 🌱 I’m currently learning **Backened,React and DSA**
 
